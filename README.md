@@ -44,6 +44,7 @@ SQL
 ---
 
 ## 📷 Project Screenshots
+![image alt](https://github.com/Abhi066-data/aws-cloud-sales-analytics-dashboard/blob/888f349154abaf9d366cf818d3c833bff2dfc28c/Cloud%20DA%20Diagram.png)
 ![image alt](https://github.com/Abhi066-data/aws-cloud-sales-analytics-dashboard/blob/19bdd6157b124d4307a4756f1e1fce0295b3a4fb/Screenshot%202026-03-09%20211610.png)
 
 ---
